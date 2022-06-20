@@ -1,0 +1,11 @@
+{
+    "First name" : "Santra",
+    "last name" : "Christ I  ",
+    "total price" : 190,
+    "deposit paid" : true,
+    "booking dates" : {
+        "check in" : "2022-06-01",
+        "check out" : "2022-06-05"
+    },
+    "additional needs" : "Breakfast"
+}

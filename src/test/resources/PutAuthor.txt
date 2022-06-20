@@ -1,0 +1,6 @@
+{
+  "id": 4,
+  "idBook": 4,
+  "firstName": "string",
+  "lastName": "string"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 16,
+  "title": "string",
+  "description": "string",
+  "pageCount": 0,
+  "excerpt": "string",
+  "publishDate": "2022-06-13T07:11:53.534Z"
+}
